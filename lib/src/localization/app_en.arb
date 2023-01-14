@@ -1,0 +1,46 @@
+{
+  "appTitle": "flutter_project_templates",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "setting": "Setting",
+  "@setting": {
+    "description": "Setting"
+  },
+  "weAreUnderMaintenance": "We are Under Maintenance",
+  "weWillBeBackSoon": "We will be back soon!",
+  "contactWithAdmin": "Contact with Admin",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "enterEmail": "Enter Email",
+  "enterPassword": "Enter Password",
+  "enterConfirmPassword": "Enter Confirm Password",
+  "phone": "Phone",
+  "enterPhone": "Enter Phone",
+  "enterName": "Enter Name",
+  "name": "Name",
+  "login": "Login",
+  "register": "Register",
+  "sendOTP": "Send OTP",
+  "verifyOTP": "Verify OTP",
+  "welcomeBack": "Welcome Back!",
+  "loginYourselfToStayConnectedWithUs": "Login yourself to Stay Connected with us.",
+  "hello": "Hello!",
+  "registerYourselfToGetStarted": "Register yourself to get started.",
+  "dontHaveAnAccount": "Don't have an account? ",
+  "registerNow": "Register Now",
+  "alreadyHaveAnAccount": "Already have an account? ",
+  "loginNow": "Login Now",
+  "search": "Search...",
+  "pleaseEnterEmail": "Please enter email",
+  "pleaseEnterAVaildEmail": "Please enter a valid email",
+  "pleaseEnterPassword": "Please enter password",
+  "pleaseEnterConfirmPassword": "Please enter confirm password",
+  "pleaseEnterPhone": "Please enter phone number",
+  "pleaseEnterName": "Please enter name",
+  "pleaseEnterAValidPhone": "Please enter a valid phone number",
+  "passwordDoesNotMatch": "Password does not match",
+  "passwordMustBeAtLeast6Characters": "Password must be at least 6 characters"
+
+}
